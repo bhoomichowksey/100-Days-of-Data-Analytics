@@ -47,15 +47,33 @@ I'm a B.Tech graduate targeting **Data Analyst / Business Analyst** roles. Inste
 ```
 100-Days-of-Data-Analytics/
 │
-├── README.md                  ← You are here
+├── README.md                        ← You are here
 │
-├── Day-01/                    ← Each day has its own folder
-│     ├── README.md            ← Explanation & approach
-│     ├── question.md          ← Problem statement
-│     ├── solution.sql         ← My solution with comments
-│     └── output.png           ← Screenshot of result
+├── Day-01/                          ← Each day has its own folder
+│     ├── README.md                  ← Explanation & approach
+│     ├── question.md                ← Problem statement
+│     ├── solution.sql / .py         ← Solution with comments
+│     └── output.png                 ← Screenshot of result
 │
-└── Resources/                 ← Study notes & references
+├── Day-02/
+│     └── ...
+│
+├── Day-03/
+│     └── ...
+│
+│    (Day-04 to Day-99 follow the same structure)
+│
+├── Day-100/                         ← Final Capstone Project
+│     ├── README.md
+│     ├── dataset/
+│     ├── notebook.ipynb
+│     └── dashboard.pbix
+│
+└── Resources/                       ← Cheat sheets & study notes
+      ├── SQL_Cheatsheet.md
+      ├── Python_Notes.md
+      ├── Statistics_Reference.md
+      └── PowerBI_Tips.md
 ```
 
 ---
@@ -73,7 +91,7 @@ I'm a B.Tech graduate targeting **Data Analyst / Business Analyst** roles. Inste
 ## 📬 Connect With Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/bhoomi-chowksey-41ab22251)
-- 💻 [GitHub](#)
+- 💻 [GitHub](https://github.com/bhoomichowksey)
 
 ---
 
