@@ -8,6 +8,8 @@
 
 I'm a B.Tech graduate targeting **Data Analyst / Business Analyst** roles. Instead of just listing skills on my resume, I'm documenting my learning journey publicly — solving real interview questions asked by companies like **Amazon, Deloitte, TCS, JP Morgan, Accenture, EY, KPMG, PwC, Infosys, and Flipkart**.
 
+**Start Date:** 29 June 2026  
+**End Date:** 6 October 2026  
 **Goal:** Land a Data Analyst role with a strong, verified portfolio
 
 ---
@@ -52,8 +54,7 @@ I'm a B.Tech graduate targeting **Data Analyst / Business Analyst** roles. Inste
 ├── Day-01/                          ← Each day has its own folder
 │     ├── README.md                  ← Explanation & approach
 │     ├── question.md                ← Problem statement
-│     ├── solution.sql / .py         ← Solution with comments
-│     └── output.png                 ← Screenshot of result
+│     └── solution.sql / .py         ← Solution with comments
 │
 ├── Day-02/
 │     └── ...
