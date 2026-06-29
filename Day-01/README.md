@@ -2,7 +2,6 @@
 
 **Date:** 29 June 2026  
 **Topic:** SQL — Subqueries & Window Functions  
-**Platform:** LeetCode #176  
 **Difficulty:** 🟢 Easy  
 **Status:** ✅ Solved
 
@@ -136,7 +135,6 @@ Always use `DENSE_RANK()` for "Nth highest" problems.
 |------|-------------|
 | `question.md` | Problem statement and table schema |
 | `solution.sql` | All 3 approaches with detailed comments |
-| `output.png` | Screenshot of successful query output |
 | `README.md` | This file |
 
 ---
