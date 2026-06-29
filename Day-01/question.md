@@ -1,6 +1,5 @@
 # 📝 Question: Second Highest Salary
 
-**Platform:** LeetCode #176  
 **Difficulty:** Easy  
 **Topic:** SQL - Subquery / Window Functions  
 **Date:** 29 June 2026
