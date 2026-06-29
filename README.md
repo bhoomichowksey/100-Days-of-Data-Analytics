@@ -74,7 +74,7 @@ I'm a B.Tech graduate targeting **Data Analyst / Business Analyst** roles. Inste
 
 ## 📬 Connect With Me
 
-- 🔗 [LinkedIn](#)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/bhoomi-chowksey-41ab22251)
 - 💻 [GitHub](#)
 
 ---
